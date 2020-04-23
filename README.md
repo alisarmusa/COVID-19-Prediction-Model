@@ -1,23 +1,23 @@
 # COVID-19 Prediction Model
  COVID-19 Prediction Model
 
-![](Screenshots/Screenshot-01.png)
+![](Screenshots/Screenshot-1.png)
 
-![](Screenshots/Screenshot-02.png)
+![](Screenshots/Screenshot-2.png)
 
-![](Screenshots/Screenshot-03.png)
+![](Screenshots/Screenshot-3.png)
 
-![](Screenshots/Screenshot-04.png)
+![](Screenshots/Screenshot-4.png)
 
-![](Screenshots/Screenshot-05.png)
+![](Screenshots/Screenshot-5.png)
 
-![](Screenshots/Screenshot-06.png)
+![](Screenshots/Screenshot-6.png)
 
-![](Screenshots/Screenshot-07.png)
+![](Screenshots/Screenshot-7.png)
 
-![](Screenshots/Screenshot-08.png)
+![](Screenshots/Screenshot-8.png)
 
-![](Screenshots/Screenshot-09.png)
+![](Screenshots/Screenshot-9.png)
 
 ![](Screenshots/Screenshot-10.png)
 
